@@ -12,8 +12,12 @@
   },
   "devDependencies": {
     "@antfu/eslint-config": "^0.38.5",
+    "@iconify-json/mdi": "^1.1.52",
     "@types/node": "^18",
     "@unocss/nuxt": "^0.51.5",
+    "@unocss/preset-attributify": "^0.53.4",
+    "@unocss/preset-icons": "^0.53.4",
+    "@unocss/preset-uno": "^0.53.4",
     "eslint": "^8.38.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
