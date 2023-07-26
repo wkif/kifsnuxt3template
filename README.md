@@ -14,6 +14,7 @@
 - 📥 APIs auto importing - for Composition API, VueUse and custom composables.
 - 🦾 TypeScript, of course
 - 🧍‍♀️ eslint-Assemble-able JavaScript and JSX checking tools
+- 🧍‍♀️ vueuse
 
 
 

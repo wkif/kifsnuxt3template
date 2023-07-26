@@ -2,7 +2,7 @@
 
 <template>
   <div class="flex" flex="items-center justify-end" fixed w="100%" bg="#4285f4">
-    <Darkmode right="0" />
+    <Darkmode  />
   </div>
 </template>
 

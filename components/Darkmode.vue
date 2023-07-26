@@ -16,6 +16,8 @@ function toggleTheme(event: MouseEvent) {
   }
 }
 function changeTheme() {
+  // 忽略下面eslint报错
+  // eslint-disable-next-line no-undef
   const transition = document.startViewTransition(() => {
     const root = document.body
     // isDark.value = root.classList.contains('dark')

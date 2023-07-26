@@ -1,6 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
-  modules: ['@unocss/nuxt'],
+  modules: ['@unocss/nuxt', '@vueuse/nuxt'],
   unocss: {
     // icon: https://icones.js.org/   interactive: https://unocss.dev/interactive/
     uno: true,
